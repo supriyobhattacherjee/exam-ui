@@ -11,7 +11,6 @@ import configuration from '../public/config.json';
 import PrimeVue from 'primevue/config';
 import BaseButton from './components/BaseControl/BaseButton.vue'
 import BaseDialog from './components/BaseControl/BaseDialog.vue'
-// import Vuelidate from 'vuelidate'
 import 'primevue/resources/themes/saga-blue/theme.css';
 import 'primevue/resources/primevue.min.css';
 import 'primeicons/primeicons.css';
