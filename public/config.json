@@ -1,0 +1,4 @@
+{
+  "ENCRPTY_KEY": "development#12345",
+  "API_BASE_URL_PATH": "http://localhost:5000/api/"
+}
