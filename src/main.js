@@ -18,7 +18,7 @@ import 'primeicons/primeicons.css';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faUserSecret } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-
+ 
 const store = createStore({
     state(){
         return {
